@@ -16,13 +16,6 @@ It works through browser automation. This is **not an official VK product** and 
 - Configurable workflows for content publishing, comment handling, content uploads, and communications, subject to platform rules and applicable law.
 - Adaptation to an agreed business workflow.
 
-## Licensing and support
-
-- **Open Source + customisation:** from **$314**.
-- **Support and updates:** from **$50 / month**.
-
-The exact deliverables, licence, compatibility, and permitted use case are agreed before purchase.
-
 ## Contacts
 
 - Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
